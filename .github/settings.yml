@@ -1,0 +1,5 @@
+---
+repository:
+  description: A GitHub action to publish your Ansible role to Galaxy.
+  homepage: https://mesd.ag/
+  topics: github, action, ansible, galaxy
